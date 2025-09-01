@@ -7,7 +7,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: vprofile.tryin
+  - host: vprofile.tryingtobedevops.site
     http:
       paths:
       - path: /
